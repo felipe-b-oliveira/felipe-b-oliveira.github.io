@@ -10123,3 +10123,13 @@ section.resume-section .resume-section-content {
     padding-bottom: 3rem;
   }
 }
+
+/*
+* CUSTOM CSS
+*/
+
+@media (max-width: 360px) {
+  .social-icons .social-icon {
+    margin-top: 1rem;
+  }
+}
