@@ -1,0 +1,14 @@
+{
+  "name": "felipe-b-oliveira.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/felipe-b-oliveira/felipe-b-oliveira.github.io.git",
+  "author": "Felipe Barbosa <felipe.boliveira@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "vite build --mode production"
+  },
+  "devDependencies": {
+    "vite": "^4.4.4"
+  }
+}
